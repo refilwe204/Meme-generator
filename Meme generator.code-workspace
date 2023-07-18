@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../meme generator/node_modules"
+		},
+		{
+			"path": "../meme generator/public"
+		}
+	],
+	"settings": {}
+}
